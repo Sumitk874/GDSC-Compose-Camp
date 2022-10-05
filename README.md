@@ -1,2 +1,2 @@
 # GDSC-Compose-Camp
-assignment 
+made a dice rolling app 
